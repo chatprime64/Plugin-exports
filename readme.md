@@ -4,3 +4,4 @@ add it as a issue and i will later look into it
 CURRENT PLUGINS:
 GeyserMC
 DynMap
+Admingui(command is /admin)
