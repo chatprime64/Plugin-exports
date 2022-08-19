@@ -6,4 +6,4 @@ GeyserMC
 DynMap
 Admingui(command is /admin)
 
-i also added git interagation :)
+i also added git interagation
